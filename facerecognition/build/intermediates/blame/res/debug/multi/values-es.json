@@ -1,0 +1,311 @@
+[
+    {
+        "outputFile": "D:\\StudioProjects\\face-recognition\\facerecognition\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es\\values-es.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 26,
+                    "endOffset": 77
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\face-recognition\\facerecognition\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 120,
+                        "endColumn": 34,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 82,
+                    "endColumn": 54,
+                    "endOffset": 132
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\face-recognition\\facerecognition\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 826,
+                        "endColumn": 54,
+                        "endOffset": 876
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 137,
+                    "endColumn": 81,
+                    "endOffset": 214
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\face-recognition\\facerecognition\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 2,
+                        "startOffset": 556,
+                        "endColumn": 79,
+                        "endOffset": 633
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 219,
+                    "endColumn": 42,
+                    "endOffset": 257
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\face-recognition\\facerecognition\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 155,
+                        "endColumn": 42,
+                        "endOffset": 193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 262,
+                    "endColumn": 65,
+                    "endOffset": 323
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\face-recognition\\facerecognition\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 331,
+                        "endColumn": 65,
+                        "endOffset": 392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 328,
+                    "endColumn": 45,
+                    "endOffset": 369
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\face-recognition\\facerecognition\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 676,
+                        "endColumn": 45,
+                        "endOffset": 717
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 374,
+                    "endColumn": 55,
+                    "endOffset": 425
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\face-recognition\\facerecognition\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 770,
+                        "endColumn": 55,
+                        "endOffset": 821
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 430,
+                    "endColumn": 39,
+                    "endOffset": 465
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\face-recognition\\facerecognition\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 2,
+                        "startOffset": 636,
+                        "endColumn": 37,
+                        "endOffset": 671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 470,
+                    "endColumn": 42,
+                    "endOffset": 508
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\face-recognition\\facerecognition\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 198,
+                        "endColumn": 42,
+                        "endOffset": 236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 513,
+                    "endColumn": 47,
+                    "endOffset": 556
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\face-recognition\\facerecognition\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endColumn": 47,
+                        "endOffset": 765
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 561,
+                    "endColumn": 54,
+                    "endOffset": 611
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\face-recognition\\facerecognition\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 450,
+                        "endColumn": 54,
+                        "endOffset": 500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 616,
+                    "endColumn": 52,
+                    "endOffset": 664
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\face-recognition\\facerecognition\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 397,
+                        "endColumn": 52,
+                        "endOffset": 445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 669,
+                    "endColumn": 43,
+                    "endOffset": 708
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\face-recognition\\facerecognition\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 241,
+                        "endColumn": 43,
+                        "endOffset": 280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 713,
+                    "endColumn": 45,
+                    "endOffset": 754
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\face-recognition\\facerecognition\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 285,
+                        "endColumn": 45,
+                        "endOffset": 326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 759,
+                    "endColumn": 52,
+                    "endOffset": 807
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\face-recognition\\facerecognition\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 505,
+                        "endColumn": 52,
+                        "endOffset": 553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 812,
+                    "endColumn": 64,
+                    "endOffset": 872
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\face-recognition\\facerecognition\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 64,
+                        "endOffset": 115
+                    }
+                }
+            }
+        ]
+    }
+]

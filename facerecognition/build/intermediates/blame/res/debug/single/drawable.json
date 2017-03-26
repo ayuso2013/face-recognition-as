@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\StudioProjects\\face-recognition\\facerecognition\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "D:\\StudioProjects\\face-recognition\\facerecognition\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\face-recognition\\facerecognition\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_stat_camera.png",
+        "source": "D:\\StudioProjects\\face-recognition\\facerecognition\\src\\main\\res\\drawable\\ic_stat_camera.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\face-recognition\\facerecognition\\build\\intermediates\\res\\merged\\debug\\drawable\\lightbulb.png",
+        "source": "D:\\StudioProjects\\face-recognition\\facerecognition\\src\\main\\res\\drawable\\lightbulb.png"
+    }
+]

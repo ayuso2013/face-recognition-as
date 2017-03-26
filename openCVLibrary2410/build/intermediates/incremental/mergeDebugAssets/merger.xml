@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\StudioProjects\face-recognition\openCVLibrary2410\src\main\assets"/><source path="D:\StudioProjects\face-recognition\openCVLibrary2410\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\StudioProjects\face-recognition\openCVLibrary2410\src\debug\assets"/></dataSet></merger>

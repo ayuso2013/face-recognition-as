@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\StudioProjects\face-recognition\facerecognition\libs\javacpp.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="08f8b1e3fdcc93a1e9076d6279864d6a46982a85">
+        <dex dex="D:\StudioProjects\face-recognition\facerecognition\build\intermediates\transforms\dex\debug\folders\1000\2\javacpp_9684a250d0e7eb02a6e1a57e68c304c2d9d7a89a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\StudioProjects\face-recognition\facerecognition\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b20e73433dafe06b0c64d1a9ed0f813b5b4d96d9">
+        <dex dex="D:\StudioProjects\face-recognition\facerecognition\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8f16a30306ce1433eb19d4af87fb3dcf45d447dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\StudioProjects\face-recognition\facerecognition\libs\javacv.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1824ed7a180ee32aa57f5632a489c10aad8f1804">
+        <dex dex="D:\StudioProjects\face-recognition\facerecognition\build\intermediates\transforms\dex\debug\folders\1000\2\javacv_7a4dea7d4c2e0f8a476b5fb9e0aa40d895793199\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\StudioProjects\face-recognition\facerecognition\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1e40f7cc07fa3f0712ee1f8e4bb7117ae2617a57">
+        <dex dex="D:\StudioProjects\face-recognition\facerecognition\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_cb4d04b878bce004ac13a54bc3c3333cd689ba32\classes.dex" />
+    </item>
+
+</items>

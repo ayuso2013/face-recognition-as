@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\StudioProjects\\face-recognition\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\catalog_view.xml",
+        "source": "D:\\StudioProjects\\face-recognition\\facerecognition\\src\\main\\res\\layout\\catalog_view.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\face-recognition\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\face_detect_surface_view.xml",
+        "source": "D:\\StudioProjects\\face-recognition\\facerecognition\\src\\main\\res\\layout\\face_detect_surface_view.xml"
+    }
+]

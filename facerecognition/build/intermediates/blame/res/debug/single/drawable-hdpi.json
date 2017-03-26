@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\StudioProjects\\face-recognition\\facerecognition\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_green.png",
+        "source": "D:\\StudioProjects\\face-recognition\\facerecognition\\src\\main\\res\\drawable-hdpi\\ic_green.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\face-recognition\\facerecognition\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_red.png",
+        "source": "D:\\StudioProjects\\face-recognition\\facerecognition\\src\\main\\res\\drawable-hdpi\\ic_red.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\face-recognition\\facerecognition\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_yellow.png",
+        "source": "D:\\StudioProjects\\face-recognition\\facerecognition\\src\\main\\res\\drawable-hdpi\\ic_yellow.png"
+    }
+]

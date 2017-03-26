@@ -1,0 +1,7 @@
+#Sun Mar 26 11:48:57 CEST 2017
+base.0=D\:\\StudioProjects\\face-recognition\\facerecognition\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_cb4d04b878bce004ac13a54bc3c3333cd689ba32
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\StudioProjects\\face-recognition\\facerecognition\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8f16a30306ce1433eb19d4af87fb3dcf45d447dd\\classes.dex
+base.1=D\:\\StudioProjects\\face-recognition\\facerecognition\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8f16a30306ce1433eb19d4af87fb3dcf45d447dd
+file.0=D\:\\StudioProjects\\face-recognition\\facerecognition\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_cb4d04b878bce004ac13a54bc3c3333cd689ba32\\classes.dex
